@@ -1,0 +1,11 @@
+INVALID ethna@gmail,com
+VALID ethna@gmail.con
+VALID email@example.com
+VALID firstname.lastname@example.com
+VALID email@subdomain.example.com
+VALID firstname+lastname@example.com
+INVALID Joe Smith <email@example.com>
+INVALID email.example.com
+INVALID email@example@example.com
+VALID .email@example.com
+VALID email@example..com
